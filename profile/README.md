@@ -6,20 +6,20 @@ This is the third time I've taught this course. Thanks for joining!
 
 ## Overview
 
-| Key                     | Value                                                                     |
-| ----------------------- | ------------------------------------------------------------------------- |
-| 🎓&nbsp;Course number           | MGT858                                                                    |
-| 📚&nbsp;Units                  | 2 units in Yale College and equivalent elsewhere                          |
-| 👥&nbsp;Enrollment             | Open to any student at Yale                             |
-| 📅&nbsp;Term                   | Spring-2 2024 (half-term)                                                         |
-| 🕓&nbsp;Meeting Time | Monday & Wednesday 13:00-14:20 EST, March 25 - May 7, 2024                 |
-| 🏫&nbsp;Meeting Location | Room 4200 in [Evans Hall](https://map.yale.edu/?id=1910#!m/560094) |
-| 💻&nbsp;Zoom link       | No zoom  🙁                                    |
-| 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar) |
-| 🌐&nbsp;Website         | http://858.mba (down sometimes until class begins; requires Yale VPN)                  |
-| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-858-spring-2024/discussions | 
-| 👨‍🏫&nbsp;Instructor              | Kyle Jensen |
-| 🤝&nbsp;Teaching Assistants | [Adan Rivas](mailto:adan.rivas@yale.edu), [Nora Devlin](mailto:nora.devlin@yale.edu), and [Sanat Khurana](sanat.khurana@yale.edu)      |
+| Key                     | Value                                                                                                                             |
+| ----------------------- |-----------------------------------------------------------------------------------------------------------------------------------|
+| 🎓&nbsp;Course number           | MGT858                                                                                                                            |
+| 📚&nbsp;Units                  | 2 units in Yale College and equivalent elsewhere                                                                                  |
+| 👥&nbsp;Enrollment             | Open to any student at Yale                                                                                                       |
+| 📅&nbsp;Term                   | Spring-2 2024 (half-term)                                                                                                         |
+| 🕓&nbsp;Meeting Time | Monday & Wednesday 13:00-14:20 EST, March 25 - May 6, 2024                                                                        |
+| 🏫&nbsp;Meeting Location | Room 4200 in [Evans Hall](https://map.yale.edu/?id=1910#!m/560094)                                                                |
+| 💻&nbsp;Zoom link       | No zoom  🙁                                                                                                                       |
+| 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar)                       |
+| 🌐&nbsp;Website         | http://858.mba (down sometimes until class begins; requires Yale VPN)                                                             |
+| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-858-spring-2024/discussions                                                                      | 
+| 👨‍🏫&nbsp;Instructor              | Kyle Jensen                                                                                                                       |
+| 🤝&nbsp;Teaching Assistants | [Adan Rivas](mailto:adan.rivas@yale.edu), [Nora Devlin](mailto:nora.devlin@yale.edu), and [Sanat Khurana](sanat.khurana@yale.edu) |
 
 
 
