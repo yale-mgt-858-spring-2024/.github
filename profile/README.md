@@ -253,7 +253,7 @@ I will compute the grades for non-SOM students by overlaying their school's
 grading scale on top of the SOM curve. There's not a 1-to-1 correspondence.
 Your letter grade will be based on your sum grade and your sum grade will be
 determined _roughly_ as follows (I reserve the right to make changes. The most
-common change I make is dropping assignments.)
+common change I make is dropping assignments or quizzes.)
 
 
 | Component       | Percentage            | 
