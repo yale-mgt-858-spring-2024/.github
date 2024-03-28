@@ -78,7 +78,7 @@ Feel free to send an email if these times do not work for you.
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TDB |
-| Adan Rivas   | adan.rivas@yale.edu | TBD | TDB |
+| Adan Rivas   | adan.rivas@yale.edu | Right After Class | Classroom or the Bunker |
 | Nora Devlin | nora.devlin@yale.edu | TBD | TDB |
 | Sanat Khurana | sanat.khurana@yale.edu | TBD | TDB |
 
