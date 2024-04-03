@@ -80,7 +80,7 @@ Feel free to send an email if these times do not work for you.
 | Kyle Jensen     | kyle.jensen@yale.edu | 2-3pm Tuesdays | L400 (the Bunker) |
 | Adan Rivas   | adan.rivas@yale.edu | Right After Class | 4200 (our classroom) or L400 (the Bunker)  |
 | Nora Devlin | nora.devlin@yale.edu | 3-4 Tuesdays | 1556 Hundt Conference Room (across from Dean's office) |
-| Sanat Khurana | sanat.khurana@yale.edu | 4:30-6 | 2575A Coes Conference Room |
+| Sanat Khurana | sanat.khurana@yale.edu | 4:30-6 Tuesdays and Thursdays | 2575A Coes Conference Room |
 
 
 
